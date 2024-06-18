@@ -1,0 +1,21 @@
+/* style.css */
+
+.classone {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.classone.header {
+    font-size: 30px;
+}
+
+#firstid {
+    color: blue;
+    font-size: 36px;
+}
+
+#secondid {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
